@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Páginas de programación
 https://aprendiendoarduino.wordpress.com/cursos/curso-arduino-avanzado-2017/
-## Header 2
+## Sentencias de control
 ### Header 3
 
 - Bulleted
