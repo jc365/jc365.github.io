@@ -16,6 +16,7 @@ string buffer[LECTURAS_EN_BUFFER];
 int elemento_buffer = 0;
 
 setup()
+   // Definir interrupciones cuando llega un SMS o se pulsa un boton
 endSetup
 
 loop()
