@@ -66,7 +66,7 @@ void loop() {
 
 
 
-/* codigo copiado literal
+/* codigo copiado casiliteral
  *  
  */
 void leer_Serial() {
