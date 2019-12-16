@@ -70,7 +70,7 @@ Impresión de enteros desde 0 hasta 9 con while
 int i = 0;
 while (i < 10) {// Evaluamos condición
 Serial.println(i);// Imprimimos número
-i++;// Modificamos valores tomados 
+i++;// Modificamos valores tomados
 // en cuenta en la condición.
 }
 do…while
@@ -162,3 +162,6 @@ Como veis, el lenguaje nos ofrece multitud de herramientas para simplificar y va
 
 Esperamos que este artículo os sirva de ayuda a la hora de escribir vuestros programas.
 
+
+
+// linea de prueba
